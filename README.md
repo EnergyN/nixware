@@ -1,0 +1,2 @@
+# nixware
+cfgs/scripts
